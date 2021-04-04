@@ -1,13 +1,9 @@
-package com.infy;
-
 import java.util.Scanner;
 
 public class Tester {
   public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Please enter your name");
-    String name = sc.nextLine();
-
-    System.out.println(name);
+    String test = "output";
+    String postTest = test.substring(0, test.length() - 1);
+    System.out.println(postTest);
   }
 }
