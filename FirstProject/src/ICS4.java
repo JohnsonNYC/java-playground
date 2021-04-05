@@ -1,3 +1,5 @@
+package FirstProject.src;
+
 public class ICS4 {
   public static void main(String[] args) {
     // Problem: Get this pattern

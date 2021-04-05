@@ -1,3 +1,4 @@
+package FirstProject.src;
 import java.util.Scanner;
 
 public class ICS2 {

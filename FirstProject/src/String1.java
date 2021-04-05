@@ -1,3 +1,5 @@
+package FirstProject.src;
+
 import java.util.HashMap;
 
 public class String1{

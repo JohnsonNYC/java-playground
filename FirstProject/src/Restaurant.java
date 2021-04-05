@@ -1,3 +1,5 @@
+package FirstProject.src;
+
 public class Restaurant {
   private String name;
   private long restaurantContact;
