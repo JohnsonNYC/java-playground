@@ -1,14 +1,7 @@
 package FirstProject.Playground;
 import java.util.*;
 public class Tester {
-  public static void main(String[] args) {
-    int[] tempList = {1, -1, -2};
-    int[] numList = {-2,-1,1};
-    int n = 2;
-    int k = 0;
-    System.out.println(n/k);
 
-  }
 }
 
 
